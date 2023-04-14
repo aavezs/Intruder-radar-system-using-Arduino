@@ -1,0 +1,14 @@
+https://www.tinkercad.com/things/lVZ0FbwZBEc
+
+
+
+Project Decription
+
+
+AAn intruder radar system using Arduino is a project that utilizes an Arduino board along with an ultrasonic sensor to detect any intruders entering a certain area. The system works by sending out ultrasonic waves that bounce off any object in their path, and then measuring the time it takes for the waves to bounce back. By using this data, the system can determine the distance between the sensor and any object in its range.
+
+The system can be set up to monitor a specific area, such as a room or a hallway, and trigger an alarm if an intruder is detected within the range of the sensor. The Arduino board can be programmed to control the alarm, as well as any other devices that may be connected to the system, such as lights or cameras.
+
+To build this project, you will need an Arduino board, an ultrasonic sensor, a breadboard, jumper wires, and an alarm or buzzer. The ultrasonic sensor is mounted on the breadboard and connected to the Arduino board using jumper wires. The code for the system is written in the Arduino IDE, and it is uploaded to the board using a USB cable.
+
+Once the system is set up, it will continuously monitor the area and detect any intruders that come within range of the ultrasonic sensor. The system can be customized and expanded to suit different needs, such as adding additional sensors to monitor multiple areas or integrating it with a home automation system.
